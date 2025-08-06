@@ -1,0 +1,5 @@
+.cache
+.pio
+sdkconfig
+sdkconfig.*
+build
